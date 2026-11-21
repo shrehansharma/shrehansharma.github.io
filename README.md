@@ -2,7 +2,7 @@
 
 A responsive, single-page portfolio site for a Computer Science student looking for an SDE / Web Developer internship. Built from scratch with HTML, CSS and vanilla JavaScript — no frameworks, no build step.
 
-[Live demo](#) <!-- Replace with your GitHub Pages / Netlify URL once deployed -->
+[Live demo: shrehansharma.github.io](https://shrehansharma.github.io/)
 
 ## Problem
 
